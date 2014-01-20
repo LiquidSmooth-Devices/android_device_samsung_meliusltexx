@@ -1,4 +1,5 @@
 # Copyright (C) 2013 The CyanogenMod Project
+# Copyright (C) 2014 The LiquidSmooth Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -20,7 +21,7 @@
 # definition file).
 #
 
-# Inherit from common serrano
+# Inherit from common melius
 -include device/samsung/melius-common/BoardConfigCommon.mk
 
 # Inherit from the proprietary version
