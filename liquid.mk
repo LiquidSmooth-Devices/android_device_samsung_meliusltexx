@@ -24,6 +24,9 @@ $(call inherit-product, vendor/liquid/config/common_phone.mk)
 # telephony
 $(call inherit-product, vendor/liquid/config/gsm_nolocales.mk)
 
+# enhanced NFC
+$(call inherit-product, vendor/cm/config/nfc_enhanced.mk)
+
 # product
 PRODUCT_DEVICE := meliusltexx
 PRODUCT_BRAND := samsung
