@@ -21,9 +21,6 @@ $(call inherit-product, device/samsung/meliusltexx/full_meliusltexx.mk)
 # phone
 $(call inherit-product, vendor/liquid/config/common_phone.mk)
 
-# telephony
-$(call inherit-product, vendor/liquid/config/gsm_nolocales.mk)
-
 # enhanced NFC
 $(call inherit-product, vendor/liquid/config/nfc_enhanced.mk)
 
