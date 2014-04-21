@@ -16,9 +16,6 @@
 # Inherit from common melius
 -include device/samsung/melius-common/BoardConfigCommon.mk
 
-# Inherit from the proprietary version
--include vendor/samsung/meliusltexx/BoardConfigVendor.mk
-
 # Assert
 # TARGET_OTA_ASSERT_DEVICE := meliuslte,meliusltexx,i9205,GT-I9205,SGH-M819N,SGH-i527M
 
