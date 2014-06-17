@@ -34,10 +34,10 @@ PRODUCT_PROPERTY_OVERRIDES += ro.buildzipid=liquid.meliusltexx.$(shell date +%m%
 
 # override
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BUILD_NUMBER=I9205XXUAMEA \
+    BUILD_NUMBER=I9205XXUDNE4 \
     PRODUCT_NAME=meliusltexx \
     TARGET_DEVICE=meliusltexx \
     TARGET_BUILD_TYPE=user \
     BUILD_VERSION_TAGS=release-keys \
-    PRIVATE_BUILD_DESC="meliusltexx-user 4.2.2 JDQ39 I9205XXUAMEA release-keys" \
-    BUILD_FINGERPRINT="samsung/meliusltexx/meliuslte:4.2.2/JDQ39/I9205XXUAMEA:user/release-keys"
+    PRIVATE_BUILD_DESC="meliusltexx-user 4.4.2 KOT49H I9205XXUDNE4 release-keys" \
+    BUILD_FINGERPRINT="samsung/meliusltexx/meliuslte:4.4.2/KOT49H/I9205XXUDNE4:user/release-keys"
