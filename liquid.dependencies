@@ -21,7 +21,7 @@
     "remote": "gh",
     "repository": "sileshn/android_device_samsung_melius-common",
     "target_path": "device/samsung/melius-common",
-    "revision": "crom/slim"
+    "revision": "liquid"
   },
   {
     "remote": "gh",
@@ -37,7 +37,7 @@
   },
   {
     "remote": "gh",
-    "repository": "sileshn/proprietary_vendor_samsung-melius",
+    "repository": "sileshn/proprietary_vendor_samsung",
     "target_path": "vendor/samsung",
     "revision": "cm-11.0"
     }
