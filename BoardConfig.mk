@@ -26,7 +26,7 @@ TARGET_KERNEL_VARIANT_CONFIG := msm8930_melius_eur_lte_defconfig
 TARGET_EXTERNAL_APPS = sdcard1
 
 # Default Toolchains
-TARGET_GCC_VERSION_AND := 4.8-sm
+TARGET_GCC_VERSION_AND := 4.7-sm
 TARGET_GCC_VERSION_ARM := 4.7-sm
 
 # NFC
